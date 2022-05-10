@@ -2,7 +2,7 @@
     <img src='assets/laser-ship-app-icon.webp' alt='app icon' width=150 />
     <br />
     <h3>Laser Ship</h3>
-    <h4>An arcade-inspired vertically scrolling shooter game for iOS and Android</h4>
+    <h4>A vertically scrolling shooter mobile game for iOS and Android</h4>
     <br />
     <a href='https://apps.apple.com/us/app/laser-ship/id1040063317'>
         <img src='assets/app-store-badge.png' alt='app store' width=200 />

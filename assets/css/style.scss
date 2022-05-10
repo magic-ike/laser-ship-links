@@ -1,0 +1,33 @@
+---
+---
+
+@import '{{ site.theme }}';
+
+* {
+  background-color: inherit !important;
+  color: inherit !important;
+}
+
+body {
+  background-color: #6c757d !important;
+  color: white !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+a.anchorjs-link {
+  display: none !important;
+}
+
+.container-lg {
+  width: auto !important;
+  max-width: none !important;
+  min-height: 100vh !important;
+  margin: 0 !important;
+  padding: 2rem !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
